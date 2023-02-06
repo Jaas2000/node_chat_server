@@ -14,7 +14,6 @@ const getUsuarios = async ( req, res = response ) => {
         ok: true,
         usuarios,
     });
-
 }
 
 
